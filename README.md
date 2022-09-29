@@ -2,15 +2,15 @@
 
 I'm TenType, a passionate self-taught developer.
 
-- 🔭 Working on **[Flowim](https://github.com/TenType/flowim)**, my programming language
+- 🔭 Working on web dev projects such as **[Connect Four](https://github.com/TenType/connect-four)**
 - 🌱 Learning web development and machine learning
 
 ### Tech Stack
 
-| Experienced in | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-e33414?logo=rust&logoColor=white) |
+| Proficient     | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-e33414?logo=rust&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white) |
 | -------------- | :--: |
-| Worked with    | ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2162AF?logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![C++](https://img.shields.io/badge/C++-044F88?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-044F88?logo=c&logoColor=white) |
-| Want to learn  | ![Java](https://img.shields.io/badge/Java-f89820?logo=java&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-674774?logo=elixir&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink?logo=sass&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?logo=vue.js&logoColor=%234FC08D) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) |
+| Familiar       | ![CSS](https://img.shields.io/badge/CSS-2162AF?logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-f89820?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-044F88?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-044F88?logo=c&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) |
+| Learning       |  ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF) ![Elixir](https://img.shields.io/badge/Elixir-674774?logo=elixir&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink?logo=sass&logoColor=white) |
 
 ### Stats
 
