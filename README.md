@@ -2,15 +2,15 @@
 
 I'm TenType!
 
-- 🔭 Working on projects such as building a [Connect Four AI](https://github.com/TenType/connect-four)
-- 🌱 Learning web frameworks, bit manipulation, and AI decision algorithms
+- 🔭 Working on community-based projects for nonprofit organizations
+- 🌱 Learning AI decision algorithms and statistical analysis
 
 ### Tech Stack
 
-| Proficient     | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-e33414?logo=rust&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white) |
+| Proficient     | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-f89820?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2162AF?logo=css3&logoColor=white) |
 | -------------- | :--: |
-| Familiar       | ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2162AF?logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-f89820?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-044F88?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-044F88?logo=c&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) |
-| Learning       |  ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF) ![Elixir](https://img.shields.io/badge/Elixir-674774?logo=elixir&logoColor=white) |
+| Familiar       | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/Rust-e33414?logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-044F88?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-044F88?logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white) |
+| Learning       |  ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)  ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF) ![Elixir](https://img.shields.io/badge/Elixir-674774?logo=elixir&logoColor=white) |
 
 ### Stats
 
