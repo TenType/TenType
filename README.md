@@ -1,7 +1,7 @@
 ## Hey there! :wave:
 
-- 🔭 Researching machine learning and programming language theory
 - 🌱 Learning discrete mathematics and statistical computing
+- 🌐 Making a personal website (coming soon-ish)
 
 <br>
 <table>
